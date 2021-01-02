@@ -3,51 +3,51 @@
 Pre-compiled binaries and scripts to aid security consultants.
 Works best with `execute-assembly`.
 
-InveighZero
+#### InveighZero
 * https://github.com/Kevin-Robertson/InveighZero
 
-Juicy Potato
+#### Juicy Potato
 * https://github.com/ohpe/juicy-potato
 * https://github.com/ivanitlearning/Juicy-Potato-x86
 
-Rubeus
+#### Rubeus
 * https://github.com/GhostPack/Rubeus
 
-Reconerator
+#### Reconerator
 * https://github.com/stufus/reconerator
 
-SharpChromium
+#### SharpChromium
 * https://github.com/djhohnstein/SharpChromium
 
-SharpHound 
+#### SharpHound 
 * https://github.com/BloodHoundAD/SharpHound3
 
-SafetyKatz
+#### SafetyKatz
 * https://github.com/GhostPack/SafetyKatz
 
-SharpDump
+#### SharpDump
 * https://github.com/GhostPack/SharpDump
 
-SharpUp
+#### SharpUp
 * https://github.com/GhostPack/SharpUp
 
-SharpGPOAbuse.exe
+#### SharpGPOAbuse.exe
 * https://github.com/FSecureLABS/SharpGPOAbuse
 
-Seatbelt
+#### Seatbelt
 * https://github.com/GhostPack/Seatbelt
 
-SharpWeb
+#### SharpWeb
 * https://github.com/djhohnstein/SharpWeb
 
-SharpView
+#### SharpView
 * https://github.com/tevora-threat/SharpView
 
-Tokenvator
+#### Tokenvator
 * https://github.com/0xbadjuju/Tokenvator
 
-ThreatCheck
+#### ThreatCheck
 * https://github.com/rasta-mouse/ThreatCheck
 
-Watson
+#### Watson
 * https://github.com/rasta-mouse/Watson
