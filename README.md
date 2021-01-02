@@ -1,52 +1,53 @@
 # Cache
 
 Pre-compiled binaries to aid security consultants.
+Works best with `execute-assembly`.
 
 InveighZero
-https://github.com/Kevin-Robertson/InveighZero
+* https://github.com/Kevin-Robertson/InveighZero
 
 Juicy Potato
-https://github.com/ohpe/juicy-potato
-https://github.com/ivanitlearning/Juicy-Potato-x86
+* https://github.com/ohpe/juicy-potato
+* https://github.com/ivanitlearning/Juicy-Potato-x86
 
 Rubeus
-https://github.com/GhostPack/Rubeus
+* https://github.com/GhostPack/Rubeus
 
 Reconerator
-https://github.com/stufus/reconerator
+* https://github.com/stufus/reconerator
 
 SharpChromium
-https://github.com/djhohnstein/SharpChromium
+* https://github.com/djhohnstein/SharpChromium
 
 SharpHound 
-https://github.com/BloodHoundAD/SharpHound3
+* https://github.com/BloodHoundAD/SharpHound3
 
 SafetyKatz
-https://github.com/GhostPack/SafetyKatz
+* https://github.com/GhostPack/SafetyKatz
 
 SharpDump
-https://github.com/GhostPack/SharpDump
+* https://github.com/GhostPack/SharpDump
 
 SharpUp
-https://github.com/GhostPack/SharpUp
+* https://github.com/GhostPack/SharpUp
 
 SharpGPOAbuse.exe
-https://github.com/FSecureLABS/SharpGPOAbuse
+* https://github.com/FSecureLABS/SharpGPOAbuse
 
 Seatbelt
-https://github.com/GhostPack/Seatbelt
+* https://github.com/GhostPack/Seatbelt
 
 SharpWeb
-https://github.com/djhohnstein/SharpWeb
+* https://github.com/djhohnstein/SharpWeb
 
 SharpView
-https://github.com/tevora-threat/SharpView
+* https://github.com/tevora-threat/SharpView
 
 Tokenvator
-https://github.com/0xbadjuju/Tokenvator
+* https://github.com/0xbadjuju/Tokenvator
 
 ThreatCheck
-https://github.com/rasta-mouse/ThreatCheck
+* https://github.com/rasta-mouse/ThreatCheck
 
 Watson
-https://github.com/rasta-mouse/Watson
+* https://github.com/rasta-mouse/Watson
