@@ -3,6 +3,9 @@
 Pre-compiled binaries and scripts to aid security consultants.
 Works best with `execute-assembly`.
 
+#### ewsManage
+* https://github.com/3gstudent/ewsManage
+
 #### InveighZero
 * https://github.com/Kevin-Robertson/InveighZero
 
