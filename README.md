@@ -1,7 +1,7 @@
 # Cache
 
 Pre-compiled binaries, scripts, and libraries to aid security consultants.
-Works best with `execute-assembly`.
+(some) Works best with `execute-assembly`.
 
 #### ewsManage
 * https://github.com/3gstudent/ewsManage
