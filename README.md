@@ -1,6 +1,6 @@
 # Cache
 
-Pre-compiled binaries and scripts to aid security consultants.
+Pre-compiled binaries, scripts, and libraries to aid security consultants.
 Works best with `execute-assembly`.
 
 #### ewsManage
