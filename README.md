@@ -7,7 +7,8 @@ Most works with `execute-assembly`.
 | Tool | Description | 
 |------|-------------|
 | [HotkeyHijack](https://github.com/huntr-huntr/Cache/blob/main/scripts/HotkeyHijack.ps1) | Hijack Windows Key Press |
-| [ewsManage](https://github.com/3gstudent/ewsManage) | Mange Exchange Web Service(EWS) from the command line. |
+| [Find-Webroot](https://github.com/huntr-huntr/Cache/blob/main/lib/find-webroot.c) | Find Web Root from Blind Command Execution |
+| [ewsManage](https://github.com/3gstudent/ewsManage) | Manage Exchange Web Service (EWS) from the command line. |
 | [InveighZero](https://github.com/Kevin-Robertson/InveighZero) | Windows C# LLMNR/mDNS/NBNS/DNS/DHCPv6 spoofer/man-in-the-middle tool. |
 | [Juicy Potato](https://github.com/ohpe/juicy-potato) | A sugared version of RottenPotatoNG, with a bit of juice, i.e. another Local Privilege Escalation tool, from a Windows Service Accounts to NT AUTHORITY\SYSTEM. |
 | [Rubeus](https://github.com/GhostPack/Rubeus) | Rubeus is a C# toolset for raw Kerberos interaction and abuses. |
