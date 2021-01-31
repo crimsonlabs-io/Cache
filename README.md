@@ -1,7 +1,7 @@
 # Cache
 
 Binaries, scripts, and libraries to aid security consultants.
-(some) Works best with `execute-assembly`.
+Most works with `execute-assembly`.
 
 
 | Tool | Description | 
