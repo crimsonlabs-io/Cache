@@ -1,6 +1,6 @@
 # Cache
 
-Pre-compiled binaries, scripts, and libraries to aid security consultants.
+Binaries, scripts, and libraries to aid security consultants.
 (some) Works best with `execute-assembly`.
 
 
