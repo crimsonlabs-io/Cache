@@ -1,6 +1,6 @@
 /* 
  * Straight to the point script to find the web application root directory 
- * E.g. target --> /content/img/20210128/arrow.jpg
+ * E.g. target --> https://host.com/media/profile/images/arrow.jpg
  * Output will be /content/img/20210128/out.txt
  * Out.txt contains the full path of arrow.jpg
  */
