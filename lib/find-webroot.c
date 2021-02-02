@@ -1,8 +1,8 @@
 /* 
  * Straight to the point script to find the web application root directory 
  * E.g. target --> https://host.com/media/profile/images/arrow.jpg
- * Output will be /content/img/20210128/out.txt
- * Out.txt contains the full path of arrow.jpg
+ * Output will be https://host.com/media/profile/images/out.txt
+ * Out.txt contains the full local path of arrow.jpg (e.g D:/web/new/media/profile/images/)
  */
 
 #include <windows.h>
