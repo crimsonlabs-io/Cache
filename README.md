@@ -1,13 +1,15 @@
 # Cache
 
 Binaries, scripts, and libraries to aid security consultants.
-Most works with `execute-assembly`.
 
+* Probably shouldn't drop EXE's in the system. Use `execute-assembly` instead.
+* Same with PowerShell scripts, use your C2's import function.
 
 | Tool | Description | 
 |------|-------------|
 | [HotkeyHijack](https://github.com/huntr-huntr/Cache/blob/main/scripts/HotkeyHijack.ps1) | Hijack Windows key press and backdoor shortcuts. |
 | [Find-Webroot](https://github.com/huntr-huntr/Cache/blob/main/scripts/Find-Webroot.ps1) | Find web root from blind command execution. |
+| [Sharp Login Prompt](https://github.com/shantanu561993/SharpLoginPrompt) | Creates a login prompt to phish for credentials. |
 | [LsassSilentProcessExit](https://github.com/deepinstinct/LsassSilentProcessExit) | Command line interface to dump LSASS memory to disk via SilentProcessExit |
 | [ewsManage](https://github.com/3gstudent/ewsManage) | Manage Exchange Web Service (EWS) remotely from the command line. |
 | [InveighZero](https://github.com/Kevin-Robertson/InveighZero) | Windows C# LLMNR/mDNS/NBNS/DNS/DHCPv6 spoofer/man-in-the-middle tool. |
