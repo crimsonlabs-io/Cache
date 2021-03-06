@@ -9,6 +9,7 @@ Binaries, scripts, and libraries to aid security consultants.
 |------|-------------|
 | [HotkeyHijack](https://github.com/huntr-huntr/Cache/blob/main/scripts/HotkeyHijack.ps1) | Hijack Windows key press and backdoor shortcuts. |
 | [Find-Webroot](https://github.com/huntr-huntr/Cache/blob/main/scripts/Find-Webroot.ps1) | Find web root from blind command execution. |
+| [SweetPotato](https://github.com/CCob/SweetPotato) | Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019. |
 | [Sharp Login Prompt](https://github.com/shantanu561993/SharpLoginPrompt) | Create login prompts to phish for credentials. |
 | [LsassSilentProcessExit](https://github.com/deepinstinct/LsassSilentProcessExit) | Command line interface to dump LSASS memory to disk via SilentProcessExit |
 | [ewsManage](https://github.com/3gstudent/ewsManage) | Manage Exchange Web Service (EWS) remotely from the command line. |
