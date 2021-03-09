@@ -11,6 +11,7 @@ Binaries, scripts, and libraries to aid security consultants.
 | [Find-Webroot](https://github.com/huntr-huntr/Cache/blob/main/scripts/Find-Webroot.ps1) | Find web root from blind command execution. |
 | [SweetPotato](https://github.com/CCob/SweetPotato) | Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019. |
 | [SharpMapExec](https://github.com/cube0x0/SharpMapExec) | A sharpen version of CrackMapExec. This tool is made to simplify penetration testing of networks and to create a swiss army knife that is made for running on Windows which is often a requirement during insider threat simulation engagements. |
+| [SharpShares](https://github.com/huntr-huntr/SharpShares) | Multithreaded C# .NET Assembly to enumerate accessible network shares in a domain. |
 | [SharpSniper](https://github.com/HunnicCyber/SharpSniper) | Find specific users in active directory via their username and logon IP address. |
 | [Sharp Login Prompt](https://github.com/shantanu561993/SharpLoginPrompt) | Create login prompts to phish for credentials. |
 | [LsassSilentProcessExit](https://github.com/deepinstinct/LsassSilentProcessExit) | Command line interface to dump LSASS memory to disk via SilentProcessExit |
