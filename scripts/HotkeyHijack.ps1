@@ -23,7 +23,7 @@ Function HotkeyHijack {
 
     .NOTES
     
-    More details at https://huntr.sh/hijacking-hotkeys/
+    More details at https://huntr.sh/posts/hijacking-windows-hotkeys/
 
     #>
 
