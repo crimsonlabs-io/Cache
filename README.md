@@ -9,6 +9,7 @@ Binaries, scripts, and libraries to aid security consultants.
 |------|-------------|
 | [HotkeyHijack](https://github.com/huntr-huntr/Cache/blob/main/scripts/HotkeyHijack.ps1) | Hijack Windows key press and backdoor shortcuts. |
 | [Find-Webroot](https://github.com/huntr-huntr/Cache/blob/main/scripts/Find-Webroot.ps1) | Find web root from blind command execution. |
+| [ADACLScanner](https://github.com/canix1/ADACLScanner) | Scans Active Directory permissions and automatically generate reports. |
 | [SweetPotato](https://github.com/CCob/SweetPotato) | Local Service to SYSTEM privilege escalation from Windows 7 to Windows 10 / Server 2019. |
 | [SharpMapExec](https://github.com/cube0x0/SharpMapExec) | A sharpen version of CrackMapExec. This tool is made to simplify penetration testing of networks and to create a swiss army knife that is made for running on Windows which is often a requirement during insider threat simulation engagements. |
 | [SharpShares](https://github.com/huntr-huntr/SharpShares) | Multithreaded C# .NET Assembly to enumerate accessible network shares in a domain. |
