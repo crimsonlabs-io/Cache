@@ -1,5 +1,7 @@
 # Cache
 
+An arms cache for security consultants, red teams and penetration testers. Sometimes for defenders too. 
+
 | Tool | Description | 
 |------|-------------|
 | [HotkeyHijack](https://github.com/huntrpro/Cache/blob/main/Attacker/scripts/HotkeyHijack.ps1) | Hijack Windows key press and backdoor shortcuts. |
