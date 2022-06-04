@@ -1,24 +1,15 @@
 Function HotkeyHijack {
 
-    <#
+<#
 
-    .SYNOPSIS
+https://crimsonlabs.io/posts/2020/04/hijacking-windows-hotkeys/
 
-    Creates a shortcut file (.LNK) in the current user's start menu folder.
-    Hijacks given hotkey to run specified command.
+Creates a shortcut file (.LNK) in the current user's start menu folder. Hijacks given hotkey to run specified command.
     
-    By default, "CAPS LOCK" is backdoored to launch calculator. The "HotKey" parameter can be specified to execute a custom command.
-    Shown below is the command to backdoor "CTRL+V" to fetch a remote script - in this case, runs calculator.
+By default, "CAPS LOCK" is backdoored to launch calculator. The "HotKey" parameter can be specified to execute a custom command.
+Shown below is the command to backdoor "CTRL+V" to fetch a remote script - in this case, runs calculator.
 
-    .PARAMETER HotKey
-
-    Specifies the hotkey to hijack.
-
-    .PARAMETER Command
-
-    Specifies the command to execute.
-    
-    #>
+#>
 
     Param (
         [Parameter(Mandatory = $False)]
