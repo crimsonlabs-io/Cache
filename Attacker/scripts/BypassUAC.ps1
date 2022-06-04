@@ -4,7 +4,7 @@ Function BypassUAC {
 
 https://crimsonlabs.io/posts/2022/04/this-uac-bypass-still-works/
 
-By default, starts a desktop cmd.exe process.
+By default, starts an elevated CMD prompt.
 Tested and fully working on Windows 10 & 11.
 
 #>
