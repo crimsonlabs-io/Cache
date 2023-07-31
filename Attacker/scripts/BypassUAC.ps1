@@ -1,12 +1,9 @@
 Function BypassUAC {
 
 <#
-
-https://crimsonlabs.io/posts/2022/04/this-uac-bypass-still-works/
-
+https://crimsonlabs.io/posts/this-uac-bypass-still-works/
 By default, starts an elevated CMD prompt.
 Tested and fully working on Windows 10 & 11.
-
 #>
 
     Param (
